@@ -32,3 +32,31 @@ diabetes incidence and duration from baseline until the participant's Follow-Up 
 ## Exam 5
 #### Study Report
 [MESA Classic Exam 5 Main Dataset](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=3091): Variables included in the MESA Exam are those from standard questionnaires, clinical and laboratory measurements. The questionnaires include variables of demography, socioeconomic and psychosocial status, medical and family history, medication use, dietary and alcohol intakes, smoking, cognitive function, erectile disfunction, and physical activity. The clinical measurements include anthropometry, blood pressure, ankle/brachial blood pressure indices, ECG, MRI, coronary calcium determination, arterial wave forms, and corotid artery IMT. Laboratory measurements include various lipids, and urinary albumin and creatinine.
+
+#### Variables
+- [race1c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176008&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): RACE / ETHNICITY
+- [gender1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176009&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): GENDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
