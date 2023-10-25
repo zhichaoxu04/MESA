@@ -128,6 +128,16 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 #### Variables
 - sidno: SHARE ID NUMBER
 - [race1c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176008&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): RACE / ETHNICITY
+
+| race1c                      | Raw     | DNA    | RNA  | DNA+RNA |
+| :------------------         | :---:   | :--:   | :--: | :--:    |
+| White, Caucasian (1)        |  1865   |  414   |  438 |  333    |
+| Chinese American (2)        | 518     |  77    | 0    | 0       |
+| Black, African-American (3) | 1107    |  188   | 185  | 144     |
+| Hispanic (4)                | 965     |  298   | 313  | 255     |
+| N/A                         | 1974    |  0     | 0    | 0       |
+| Total                       | 6429    |  977   | 936  | 732     |
+
 - [gender1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176009&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): GENDER
 - [age5c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176011&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): AGE AT EXAM 5
 
