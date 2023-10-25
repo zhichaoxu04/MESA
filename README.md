@@ -79,25 +79,17 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 - c2 Arm: phs000209.v13.pht001123.v7.p3.c2.MESA_ThruYear2011Events.HMB-NPU.txt.gz
 
 #### Variables
-- [chda](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87888&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), ALL
-- [chdatt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87889&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO ALL CHD OR LAST FOLLOW-UP (DAYS)
-- [chdh](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87886&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), HARD
-- [chdhtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87887&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO HARD CHD OR LAST FU (DAYS)
+- [strk](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87876&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): STROKE
 
-| chda                  | Raw     | DNA    | RNA  | DNA+RNA|
+| strk                  | Raw    | DNA    | RNA  | DNA+RNA|
 | :------------------   | :---:  | :--:    | :--: | :--:   |
-| Yes (1)               |  425   |  1      |  19  |  1     |
-| No (0)                | 5999   |  975    | 915  | 730    |
+| Yes (1)               |  170   |  21     |  23  |  19    |
+| No (0)                | 6254   |  955    | 911  | 712    |
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
-| chdh                  | Raw     | DNA    | RNA  | DNA+RNA|
-| :------------------   | :---:  | :--:    | :--: | :--:   |
-| Yes (1)               |  268   |  0      |  6   |  0     |
-| No (0)                | 6156   |  976    | 928  | 731    |
-| N/A                   | 5      |  1      | 2    | 1      |
-| Total                 | 6429   |  977    | 936  | 732    |
-
+- [strktype](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87877&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): STROKE TYPE
+- [strktt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87878&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO STROKE OR LAST FOLLOW-UP (DAYS)
 
 ## DNA Methylomics
 #### Study Report
