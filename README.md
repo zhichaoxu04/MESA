@@ -138,6 +138,7 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 | N/A                         | 1974    |  0     | 0    | 0       |
 | Total                       | 6429    |  977   | 936  | 732     |
 > Use `COLLECTION_VISIT = 5` to filter the DNA and RNA collected at the exam 5. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
+
 > PBMC typically stands for "Peripheral Blood Mononuclear Cells." These cells are a type of white blood cell that includes lymphocytes (such as T cells and B cells) and monocytes.
 
 | race1c                      | Raw     | DNA    | RNA  | DNA+RNA |
