@@ -1,7 +1,7 @@
 # MESA: TopMed MESA cohort cleaning
 
 ## T2 Diabetes
-Type 2 Diabetes is a chronic medical condition characterized by high blood sugar levels (hyperglycemia) resulting from the body's inability to properly use insulin or the insufficient production of insulin by the pancreas. Unlike Type 1 Diabetes, which is an autoimmune condition where the body doesn't produce any insulin, Type 2 Diabetes typically develops in adulthood and is often associated with lifestyle factors such as obesity, lack of physical activity, and poor dietary habits.
+[Type 2 Diabetes](https://www.cdc.gov/diabetes/basics/type2.html) is a chronic medical condition characterized by high blood sugar levels (hyperglycemia) resulting from the body's inability to properly use insulin or the insufficient production of insulin by the pancreas. Unlike Type 1 Diabetes, which is an autoimmune condition where the body doesn't produce any insulin, Type 2 Diabetes typically develops in adulthood and is often associated with lifestyle factors such as obesity, lack of physical activity, and poor dietary habits.
 #### Study Report
 [pht003659.v1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=3659): (Data distribution set for Health/Medical/Biomedical (HMB) consent) MESA Time to Diabetes Dataset: This dataset contains phenotype variables for diabetes incidence and duration from baseline until the participant's Follow-Up Interview.
 
@@ -40,7 +40,7 @@ Type 2 Diabetes is a chronic medical condition characterized by high blood sugar
 - [dmite5dyc](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197150&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME FROM INCIDENT TREATED DIABETES DIAGNOSIS TO EXAM 5 (DAYS)
 
 ## CHD
-CHD stands for Coronary Heart Disease, which is also commonly known as coronary artery disease (CAD) or simply heart disease. CHD is a medical condition that primarily affects the blood vessels supplying the heart muscle (coronary arteries). It is characterized by the accumulation of plaque (atherosclerosis) within these arteries, which can narrow or block them over time.
+[CHD](https://www.cdc.gov/ncbddd/heartdefects/facts.html) stands for Coronary Heart Disease, which is also commonly known as coronary artery disease (CAD) or simply heart disease. CHD is a medical condition that primarily affects the blood vessels supplying the heart muscle (coronary arteries). It is characterized by the accumulation of plaque (atherosclerosis) within these arteries, which can narrow or block them over time.
 #### Study Report
 [MESA_ThruYear2011Events](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=1123): MESA Classic cardiovascular events through 2011. Also included are possible cardiovascular events abstracted from any hospital records via information about symptoms, history and biomarkers, scanned ECGs, echocardiograms, catheterization reports, outpatient records, and other relevant diagnostic and procedure reports. Cardiovascular events documented comprise myocardial infarctions, resuscitated cardiac arrests, angina, PTCA, CBG, CHF, PVD, stroke, TIA and fatal CHD.
 
@@ -72,7 +72,7 @@ CHD stands for Coronary Heart Disease, which is also commonly known as coronary 
 
 
 ## Stroke
-Stroke, also known as a cerebrovascular accident (CVA), is a medical condition that occurs when there is a disruption in the blood supply to a part of the brain. This disruption can lead to brain cell damage and neurological deficits.
+[Stroke](https://www.stroke.org/en/about-stroke), also known as a cerebrovascular accident (CVA), is a medical condition that occurs when there is a disruption in the blood supply to a part of the brain. This disruption can lead to brain cell damage and neurological deficits.
 
 #### Study Report
 [MESA_ThruYear2011Events](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=1123): MESA Classic cardiovascular events through 2011. Also included are possible cardiovascular events abstracted from any hospital records via information about symptoms, history and biomarkers, scanned ECGs, echocardiograms, catheterization reports, outpatient records, and other relevant diagnostic and procedure reports. Cardiovascular events documented comprise myocardial infarctions, resuscitated cardiac arrests, angina, PTCA, CBG, CHF, PVD, stroke, TIA and fatal CHD.
