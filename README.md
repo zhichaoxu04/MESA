@@ -52,6 +52,13 @@ CHD stands for Coronary Heart Disease, which is also commonly known as coronary 
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
+| chdh                  | Raw     | DNA    | RNA  | DNA+RNA|
+| :------------------   | :---:  | :--:    | :--: | :--:   |
+| Yes (1)               |  268   |  0      |  6   |  0     |
+| No (0)                | 6156   |  976    | 928  | 731    |
+| N/A                   | 5      |  1      | 2    | 1      |
+| Total                 | 6429   |  977    | 936  | 732    |
+
 
 ## DNA Methylomics
 #### Study Report
