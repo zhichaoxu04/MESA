@@ -137,7 +137,19 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 | Hispanic (4)                | 965     |  298   | 313  | 255     |
 | N/A                         | 1974    |  0     | 0    | 0       |
 | Total                       | 6429    |  977   | 936  | 732     |
-> Use `COLLECTION_VISIT = 5` to filter the DNA and RNA collected at the exam 5. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC". PBMC typically stands for "Peripheral Blood Mononuclear Cells." These cells are a type of white blood cell that includes lymphocytes (such as T cells and B cells) and monocytes.
+> Use `COLLECTION_VISIT = 5` to filter the DNA and RNA collected at the exam 5. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
+> PBMC typically stands for "Peripheral Blood Mononuclear Cells." These cells are a type of white blood cell that includes lymphocytes (such as T cells and B cells) and monocytes.
+
+| race1c                      | Raw     | DNA    | RNA  | DNA+RNA |
+| :------------------         | :---:   | :--:   | :--: | :--:    |
+| White, Caucasian (1)        |  1865   |  414   |  411 |  322    |
+| Chinese American (2)        | 518     |  76    | 97   | 65      |
+| Black, African-American (3) | 1107    |  187   | 290  | 146     |
+| Hispanic (4)                | 965     |  297   | 285  | 253     |
+| N/A                         | 1974    |  0     | 43   | 0       |
+| Total                       | 6429    |  974   | 1126 | 786     |
+> Use `COLLECTION_VISIT = 1` to filter the DNA and RNA collected at the exam 1. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
+
 
 
 - [gender1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176009&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): GENDER
