@@ -12,7 +12,6 @@ diabetes incidence and duration from baseline until the participant's Follow-Up 
 #### Variables
 - [dmittp](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197148&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): INCIDENT TREATED DIABETES: Time Point Diagnosis Determined
 
-#### Summary
 | dmittp                | Raw    | DNA     | RNA | DNA+RNA |
 | :------------------   | :---:  | :--:    | :--: | :--:   |
 | Exam 2                |  123   |  14     |  15  |  10    |
@@ -29,6 +28,8 @@ diabetes incidence and duration from baseline until the participant's Follow-Up 
 | Not N/A Count         |  595   |  100    |  95  |  74    |
 | N/A                   | 5834   |  877    | 841  | 658    |
 | Total                 | 6429   |  977    | 936  | 732    |
+> Raw represents the original data after being `dplyr::inner_joined` with the baseline demographic data. DNA represents the original data after being `dplyr::inner_joined` with the DNA data. RNA represents the original data after being `dplyr::inner_joined` with the RNA data. DNA+RNA represents the original data after being `dplyr::inner_joined` with both the DNA and RNA data.
+
 
 ## DNA Methylomics
 #### Study Report
