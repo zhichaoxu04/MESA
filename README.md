@@ -13,22 +13,22 @@ diabetes incidence and duration from baseline until the participant's Follow-Up 
 - [dmittp](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197148&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): INCIDENT TREATED DIABETES: Time Point Diagnosis Determined
 
 #### Summary
-| dmittp                 | Raw | DNA |
-| :----------------    | :------: | ----: |
-| Exam 2               |   123   | 37 |
-| Exam 3               |   100   | 41 |
-| Exam 4               |  121   | 55 |
-| Exam 4.06: Follow up 6 |  2  | 0 |
-| Exam 4.07: Follow up 7 |  2  | 0 |
-| Exam 4.08: Follow up 8 |  1   | 0 |
-| Exam 4.09: Follow up 9 |  5   | 4 |
-| Exam 4.10: Follow up 10 |  8   | 0 |
-| Exam 5               |  222   | 97 |
-| Exam 5.11: Follow up 11 |  4   | 0 |
-| Exam 5.12: Follow up 12 |  7   | 0 |
-| Not N/A               |  595   | 234 |
-| N/A                  |  5834   | 2044 |
-| Total              |  6429   | 2278 |
+| dmittp                | Raw    | DNA     | RNA |
+| :--------------: | :---: | :-: | --: |
+|     Exam 2       |  123  |  37 |  50 |
+|     Exam 3       |  100  |  41 |  39 |
+|     Exam 4       |  121  |  55 |  71 |
+| Exam 4.06: Follow up 6 |  2  |  0 |  0  |
+| Exam 4.07: Follow up 7 |  2  |  0 |  0  |
+| Exam 4.08: Follow up 8 |  1  |  0 |  0  |
+| Exam 4.09: Follow up 9 |  5  |  4 |  5  |
+| Exam 4.10: Follow up 10 |  8  |  0 |  0  |
+|     Exam 5       |  222  |  97 | 123 |
+| Exam 5.11: Follow up 11 |  4  |  0 |  0  |
+| Exam 5.12: Follow up 12 |  7  |  0 |  0  |
+|  Not N/A Count   |  595  | 234 | 288 |
+|       N/A        | 5834  |2044 |2655 |
+|      Total       | 6429  |2278 |2943 |
 
 ## DNA Methylomics
 #### Study Report
