@@ -81,7 +81,7 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 #### Variables
 - [strk](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87876&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): STROKE
 
-| strk                  | Raw    | DNA    | RNA  | DNA+RNA|
+| strk                  | Raw    | DNA    | RNA  | DNA+RNA |
 | :------------------   | :---:  | :--:    | :--: | :--:   |
 | Yes (1)               |  170   |  21     |  23  |  19    |
 | No (0)                | 6254   |  955    | 911  | 712    |
@@ -89,6 +89,17 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 | Total                 | 6429   |  977    | 936  | 732    |
 
 - [strktype](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87877&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): STROKE TYPE
+
+| strktype                          | Raw    | DNA    | RNA  | DNA+RNA |
+| :------------------               | :---:  | :--:    | :--: | :--:   |
+| Subarachnoid Hemorrhage (1)       |  4     |  1      |  1   |  1     |
+| Intraparenchymal Hemorrhage (2)   | 24     |  4      | 4    | 4      |
+| Brain Infarction (4)              | 134    |  15     | 16   | 13     |
+| Other Stroke Type (5)             | 1      |  1      | 1    | 1      |
+| Unknown Stroke Type (9)           | 7      |  0      | 0    | 0      |
+| N/A                               | 6259   |  956    | 913  | 713    |
+| Total                             | 6429   |  977    | 936  | 732    |
+
 - [strktt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87878&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO STROKE OR LAST FOLLOW-UP (DAYS)
 
 ## DNA Methylomics
