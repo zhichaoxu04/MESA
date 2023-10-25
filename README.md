@@ -3,8 +3,7 @@
 ## T2 Diabetes
 Type 2 Diabetes is a chronic medical condition characterized by high blood sugar levels (hyperglycemia) resulting from the body's inability to properly use insulin or the insufficient production of insulin by the pancreas. Unlike Type 1 Diabetes, which is an autoimmune condition where the body doesn't produce any insulin, Type 2 Diabetes typically develops in adulthood and is often associated with lifestyle factors such as obesity, lack of physical activity, and poor dietary habits.
 #### Study Report
-[pht003659.v1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=3659): (Data distribution set for Health/Medical/Biomedical (HMB) consent) MESA Time to Diabetes Dataset: This dataset contains phenotype variables for
-diabetes incidence and duration from baseline until the participant's Follow-Up Interview.
+[pht003659.v1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=3659): (Data distribution set for Health/Medical/Biomedical (HMB) consent) MESA Time to Diabetes Dataset: This dataset contains phenotype variables for diabetes incidence and duration from baseline until the participant's Follow-Up Interview.
 
 #### Files
 - c1 Arm: phs000209.v13.pht003659.v1.p3.c1.MESA_TimeToDiabetes.HMB.txt.gz
@@ -34,8 +33,7 @@ diabetes incidence and duration from baseline until the participant's Follow-Up 
 ## CHD
 CHD stands for Coronary Heart Disease, which is also commonly known as coronary artery disease (CAD) or simply heart disease. CHD is a medical condition that primarily affects the blood vessels supplying the heart muscle (coronary arteries). It is characterized by the accumulation of plaque (atherosclerosis) within these arteries, which can narrow or block them over time.
 #### Study Report
-[pht003659.v1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=3659): (Data distribution set for Health/Medical/Biomedical (HMB) consent) MESA Time to Diabetes Dataset: This dataset contains phenotype variables for
-diabetes incidence and duration from baseline until the participant's Follow-Up Interview.
+[MESA_ThruYear2011Events](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=1123): MESA Classic cardiovascular events through 2011. Also included are possible cardiovascular events abstracted from any hospital records via information about symptoms, history and biomarkers, scanned ECGs, echocardiograms, catheterization reports, outpatient records, and other relevant diagnostic and procedure reports. Cardiovascular events documented comprise myocardial infarctions, resuscitated cardiac arrests, angina, PTCA, CBG, CHF, PVD, stroke, TIA and fatal CHD.
 
 #### Files
 - c1 Arm: phs000209.v13.pht003659.v1.p3.c1.MESA_TimeToDiabetes.HMB.txt.gz
