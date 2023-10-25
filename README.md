@@ -30,14 +30,15 @@
 | Total                 | 6429   |  977    | 936  | 732    |
 > Raw represents the original data after being `dplyr::inner_joined` with the baseline demographic data. DNA represents the original data after being `dplyr::inner_joined` with the DNA data. RNA represents the original data after being `dplyr::inner_joined` with the RNA data. DNA+RNA represents the original data after being `dplyr::inner_joined` with both the DNA and RNA data.
 
-- [dmage](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197115&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): AGE AT DIABETES DIAGNOSIS
-- [dmagem](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197116&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): AGE OF DIABETES DIAGNOSIS AT EXAM 1: MISSING VALUE
-- [dmsrtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197117&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO SELF-REPORTED INCIDENT DIABETES
-- [dmittt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197118&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO INCIDENT TREATED DIABETES
-- [dmoe](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197119&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): OBSERVED DIABETES (UNTREATED AND TREATED) AT ANY MESA EXAM
-- [dmoett](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197120&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO OBSERVED DIABETES (UNTREATED AND TREATED) AT ANY MESA EXAM
-- [dmite2dyc](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197149&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME FROM INCIDENT TREATED DIABETES DIAGNOSIS TO EXAM 2 (DAYS)
-- [dmite5dyc](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197150&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME FROM INCIDENT TREATED DIABETES DIAGNOSIS TO EXAM 5 (DAYS)
+- [dmage](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197115&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Age at diabetes diagnosis
+- [dmagem](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197116&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Age of diabetes diagnosis at exam 1: missing value
+- [dmsrtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197117&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time to self-reported incident diabetes
+- [dmittt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197118&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time to incident treated diabetes
+- [dmoe](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197119&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Observed diabetes (untreated and treated) at any MESA exam
+- [dmoett](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197120&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time to observed diabetes (untreated and treated) at any MESA exam
+- [dmite2dyc](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197149&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time from incident treated diabetes diagnosis to exam 2 (days)
+- [dmite5dyc](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197150&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time from incident treated diabetes diagnosis to exam 5 (days)
+
 
 ## CHD
 [CHD](https://www.cdc.gov/ncbddd/heartdefects/facts.html) stands for Coronary Heart Disease, which is also commonly known as coronary artery disease (CAD) or simply heart disease. CHD is a medical condition that primarily affects the blood vessels supplying the heart muscle (coronary arteries). It is characterized by the accumulation of plaque (atherosclerosis) within these arteries, which can narrow or block them over time.
