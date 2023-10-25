@@ -50,9 +50,6 @@ CHD stands for Coronary Heart Disease, which is also commonly known as coronary 
 
 #### Variables
 - [chda](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87888&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), ALL
-- [chdatt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87889&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO ALL CHD OR LAST FOLLOW-UP (DAYS)
-- [chdh](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87886&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), HARD
-- [chdhtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87887&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO HARD CHD OR LAST FU (DAYS)
 
 | chda                  | Raw     | DNA    | RNA  | DNA+RNA|
 | :------------------   | :---:  | :--:    | :--: | :--:   |
@@ -61,12 +58,18 @@ CHD stands for Coronary Heart Disease, which is also commonly known as coronary 
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
+- [chdatt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87889&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO ALL CHD OR LAST FOLLOW-UP (DAYS)
+- [chdh](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87886&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), HARD
+
 | chdh                  | Raw     | DNA    | RNA  | DNA+RNA|
 | :------------------   | :---:  | :--:    | :--: | :--:   |
 | Yes (1)               |  268   |  0      |  6   |  0     |
 | No (0)                | 6156   |  976    | 928  | 731    |
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
+
+- [chdhtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87887&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO HARD CHD OR LAST FU (DAYS)
+
 
 ## Stroke
 Stroke, also known as a cerebrovascular accident (CVA), is a medical condition that occurs when there is a disruption in the blood supply to a part of the brain. This disruption can lead to brain cell damage and neurological deficits.
