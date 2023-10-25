@@ -154,6 +154,24 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 
 
 - [gender1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176009&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): GENDER
+
+| gender1                     | Raw     | DNA    | RNA  | DNA+RNA |
+| :------------------         | :---:   | :--:   | :--: | :--:    |
+| Female (0)                  | 2345    |  515   | 493  | 386     |
+| Male (1)                    | 2110    |  462   | 443  | 346     |
+| N/A                         | 1974    |  0     | 0    | 0       |
+| Total                       | 6429    |  977   | 936  | 732     |
+> Use `COLLECTION_VISIT = 5` to filter the DNA and RNA collected at the exam 5. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
+
+| gender1                     | Raw     | DNA    | RNA  | DNA+RNA |
+| :------------------         | :---:   | :--:   | :--: | :--:    |
+| Female (0)                  | 2345    |  515   | 493  | 386     |
+| Male (1)                    | 2110    |  462   | 443  | 346     |
+| N/A                         | 1974    |  0     | 0    | 0       |
+| Total                       | 6429    |  977   | 936  | 732     |
+> Use `COLLECTION_VISIT = 1` to filter the DNA and RNA collected at the exam 1. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
+
+
 - [age5c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176011&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): AGE AT EXAM 5
 
 #### Files
