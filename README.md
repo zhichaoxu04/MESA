@@ -45,11 +45,11 @@ CHD stands for Coronary Heart Disease, which is also commonly known as coronary 
 - [chdh](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87886&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), HARD
 - [chdhtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87887&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO HARD CHD OR LAST FU (DAYS)
 
-| chda                 | Raw    | DNA     | RNA | DNA+RNA |
+| chda                  | Raw     | DNA    | RNA  | DNA+RNA|
 | :------------------   | :---:  | :--:    | :--: | :--:   |
-| Yes (1)               |  595   |  100    |  95  |  74    |
-| No (0)                | 5834   |  877    | 841  | 658    |
-| N/A                   | 5834   |  877    | 841  | 658    |
+| Yes (1)               |  425   |  1      |  19  |  1     |
+| No (0)                | 5999   |  975    | 915  | 730    |
+| N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
 
