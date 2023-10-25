@@ -165,10 +165,10 @@ Stroke, also known as a cerebrovascular accident (CVA), is a medical condition t
 
 | gender1                     | Raw     | DNA    | RNA  | DNA+RNA |
 | :------------------         | :---:   | :--:   | :--: | :--:    |
-| Female (0)                  | 2345    |  515   | 493  | 386     |
-| Male (1)                    | 2110    |  462   | 443  | 346     |
-| N/A                         | 1974    |  0     | 0    | 0       |
-| Total                       | 6429    |  977   | 936  | 732     |
+| Female (0)                  | 2345    |  514   | 583  | 414     |
+| Male (1)                    | 2110    |  460   | 500  | 372     |
+| N/A                         | 1974    |  0     | 43   | 0       |
+| Total                       | 6429    |  974   | 1126 | 786     |
 > Use `COLLECTION_VISIT = 1` to filter the DNA and RNA collected at the exam 1. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
 
 
