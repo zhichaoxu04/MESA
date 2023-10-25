@@ -14,21 +14,21 @@ diabetes incidence and duration from baseline until the participant's Follow-Up 
 
 #### Summary
 | dmittp                | Raw    | DNA     | RNA |
-| :--------------: | :---: | :-: | --: |
-|     Exam 2       |  123  |  14 |  50 |
-|     Exam 3       |  100  |  19 |  39 |
-|     Exam 4       |  121  | 21 |  71 |
+| :-------------- | :---: | :-: | :--: |
+|     Exam 2       |  123  |  14 |  15 |
+|     Exam 3       |  100  |  19 |  15 |
+|     Exam 4       |  121  | 21 |  23 |
 | Exam 4.06: Follow up 6 |  2  |  0 |  0  |
 | Exam 4.07: Follow up 7 |  2  |  0 |  0  |
 | Exam 4.08: Follow up 8 |  1  |  0 |  0  |
-| Exam 4.09: Follow up 9 |  5  |  1 |  5  |
+| Exam 4.09: Follow up 9 |  5  |  1 |  2  |
 | Exam 4.10: Follow up 10 |  8  |  0 |  0  |
-|     Exam 5       |  222  |  45 | 123 |
+|     Exam 5       |  222  |  45 | 40 |
 | Exam 5.11: Follow up 11 |  4  |  0 |  0  |
 | Exam 5.12: Follow up 12 |  7  |  0 |  0  |
-|  Not N/A Count   |  595  | 100 | 288 |
-|       N/A        | 5834  | 877 |2655 |
-|      Total       | 6429  | 977 |2943 |
+|  Not N/A Count   |  595  | 100 | 95 |
+|       N/A        | 5834  | 877 | 841 |
+|      Total       | 6429  | 977 | 936 |
 
 ## DNA Methylomics
 #### Study Report
