@@ -50,7 +50,7 @@
 - c2 Arm: phs000209.v13.pht001123.v7.p3.c2.MESA_ThruYear2011Events.HMB-NPU.txt.gz
 
 #### Variables
-- [chda](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87888&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), ALL
+- [chda](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87888&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Coronary heart disease (CHD), all
 
 | chda                  | Raw     | DNA    | RNA  | DNA+RNA|
 | :------------------   | :---:  | :--:    | :--: | :--:   |
@@ -59,8 +59,9 @@
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
-- [chdatt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87889&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO ALL CHD OR LAST FOLLOW-UP (DAYS)
-- [chdh](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87886&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): CORONARY HEART DISEASE (CHD), HARD
+- [chdatt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87889&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time to all CHD or last follow-up (days)
+- [chdh](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87886&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Coronary heart disease (CHD), hard
+
 
 | chdh                  | Raw     | DNA    | RNA  | DNA+RNA|
 | :------------------   | :---:  | :--:    | :--: | :--:   |
@@ -69,8 +70,7 @@
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
-- [chdhtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87887&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO HARD CHD OR LAST FU (DAYS)
-
+- [chdhtt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87887&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time to hard CHD or last FU (days)
 
 ## Stroke
 [Stroke](https://www.stroke.org/en/about-stroke), also known as a cerebrovascular accident (CVA), is a medical condition that occurs when there is a disruption in the blood supply to a part of the brain. This disruption can lead to brain cell damage and neurological deficits.
@@ -83,7 +83,7 @@
 - c2 Arm: phs000209.v13.pht001123.v7.p3.c2.MESA_ThruYear2011Events.HMB-NPU.txt.gz
 
 #### Variables
-- [strk](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87876&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): STROKE
+- [strk](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87876&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Stroke
 
 | strk                  | Raw    | DNA    | RNA  | DNA+RNA |
 | :------------------   | :---:  | :--:    | :--: | :--:   |
@@ -92,7 +92,7 @@
 | N/A                   | 5      |  1      | 2    | 1      |
 | Total                 | 6429   |  977    | 936  | 732    |
 
-- [strktype](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87877&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): STROKE TYPE
+- [strktype](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87877&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Stroke type
 
 | strktype                          | Raw    | DNA    | RNA  | DNA+RNA |
 | :------------------               | :---:  | :--:    | :--: | :--:   |
@@ -104,7 +104,7 @@
 | N/A                               | 6259   |  956    | 913  | 713    |
 | Total                             | 6429   |  977    | 936  | 732    |
 
-- [strktt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87878&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): TIME TO STROKE OR LAST FOLLOW-UP (DAYS)
+- [strktt](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=87878&phd=1712&pha=&pht=1123&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Time to stroke or last follow-up (days)
 
 ## DNA Methylomics
 #### Study Report
