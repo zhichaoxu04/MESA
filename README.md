@@ -36,8 +36,8 @@ CHD stands for Coronary Heart Disease, which is also commonly known as coronary 
 [MESA_ThruYear2011Events](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/dataset.cgi?study_id=phs000209.v13.p3&pht=1123): MESA Classic cardiovascular events through 2011. Also included are possible cardiovascular events abstracted from any hospital records via information about symptoms, history and biomarkers, scanned ECGs, echocardiograms, catheterization reports, outpatient records, and other relevant diagnostic and procedure reports. Cardiovascular events documented comprise myocardial infarctions, resuscitated cardiac arrests, angina, PTCA, CBG, CHF, PVD, stroke, TIA and fatal CHD.
 
 #### Files
-- c1 Arm: phs000209.v13.pht003659.v1.p3.c1.MESA_TimeToDiabetes.HMB.txt.gz
-- c2 Arm: phs000209.v13.pht003659.v1.p3.c2.MESA_TimeToDiabetes.HMB-NPU.txt.gz
+- c1 Arm: phs000209.v13.pht001123.v7.p3.c1.MESA_ThruYear2011Events.HMB.txt.gz
+- c2 Arm: phs000209.v13.pht001123.v7.p3.c2.MESA_ThruYear2011Events.HMB-NPU.txt.gz
 
 #### Variables
 - [dmittp](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197148&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): INCIDENT TREATED DIABETES: Time Point Diagnosis Determined
