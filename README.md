@@ -128,7 +128,7 @@
 
 #### Variables
 - sidno: SHARE ID NUMBER
-- [race1c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176008&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): RACE / ETHNICITY
+- [race1c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176008&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Race / Ethnicity
 
 | race1c                      | Raw     | DNA    | RNA  | DNA+RNA |
 | :------------------         | :---:   | :--:   | :--: | :--:    |
@@ -154,7 +154,7 @@
 
 
 
-- [gender1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176009&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): GENDER
+- [gender1](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176009&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Gender
 
 | gender1                     | Raw     | DNA    | RNA  | DNA+RNA |
 | :------------------         | :---:   | :--:   | :--: | :--:    |
@@ -173,7 +173,7 @@
 > Use `COLLECTION_VISIT = 1` to filter the DNA and RNA collected at the exam 1. For RNA, `HISTOLOGICAL_TYPE = "PBMC"` suggesting the histological or tissue type of a sample is "PBMC".
 
 
-- [age5c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176011&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): AGE AT EXAM 5
+- [age5c](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=176011&phd=1712&pha=&pht=3091&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): Age at Exam 5
 
 #### Files
 - c1 Arm: phs000209.v13.pht003091.v3.p3.c1.MESA_Exam5Main.HMB.txt.gz
