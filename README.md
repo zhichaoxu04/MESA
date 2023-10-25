@@ -30,7 +30,7 @@ Type 2 Diabetes is a chronic medical condition characterized by high blood sugar
 | Total                 | 6429   |  977    | 936  | 732    |
 > Raw represents the original data after being `dplyr::inner_joined` with the baseline demographic data. DNA represents the original data after being `dplyr::inner_joined` with the DNA data. RNA represents the original data after being `dplyr::inner_joined` with the RNA data. DNA+RNA represents the original data after being `dplyr::inner_joined` with both the DNA and RNA data.
 
-- dmage: AGE AT DIABETES DIAGNOSIS
+- [dmage](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000209.v13.p3&phv=197115&phd=1712&pha=&pht=3659&phvf=&phdf=&phaf=&phtf=&dssp=1&consent=&temp=1): AGE AT DIABETES DIAGNOSIS
 - dmagem: AGE OF DIABETES DIAGNOSIS AT EXAM 1: MISSING VALUE
 - dmsrtt: TIME TO SELF-REPORTED INCIDENT DIABETES
 - dmittt: TIME TO INCIDENT TREATED DIABETES
